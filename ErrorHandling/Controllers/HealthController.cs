@@ -4,7 +4,7 @@ namespace ErrorHandling.Controllers;
 
 [ApiController]
 [Route("/health")]
-public class HomeController : Controller
+public class HealthController : Controller
 {
     public async Task<IActionResult> Health()
     {

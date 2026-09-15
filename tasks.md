@@ -4,7 +4,7 @@
 
 - [x] Create or confirm the `ErrorHandlingMvp.sln` solution contains the API project and the xUnit integration-test project. Verify with `dotnet build` from the solution root.
 - [x] Configure the API project for the intended .NET target framework and MVC controller support. Verify the project builds without warnings that block execution.
-- [ ] Add the required test dependencies, including `Microsoft.AspNetCore.Mvc.Testing`, and configure the API assembly to expose `Program` to the test assembly with `InternalsVisibleTo`. Verify a minimal `WebApplicationFactory<Program>` test compiles.
+- [x] Add the required test dependencies, including `Microsoft.AspNetCore.Mvc.Testing`, and configure the API assembly to expose `Program` to the test assembly with `InternalsVisibleTo`. Verify a minimal `WebApplicationFactory<Program>` test compiles.
 
 ## Application Pipeline
 
