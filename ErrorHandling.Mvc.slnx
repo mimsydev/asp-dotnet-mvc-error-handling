@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ErrorHandling.Test/ErrorHandling.Test.csproj" />
+  <Project Path="ErrorHandling/ErrorHandling.csproj" />
+</Solution>
